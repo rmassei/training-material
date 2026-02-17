@@ -726,6 +726,10 @@ danifranco:
     name: Daniel Franco-Barranco
     joined: 2026-01
 
+arrmunoz:
+    name: Maria Arrate Munoz Barrutia
+    joined: 2026-01
+
 dannon:
     name: Dannon Baker
     joined: 2017-09
@@ -3352,6 +3356,7 @@ rmassei:
     joined: 2024-11
     affiliations:
       - nfdi4bioimage
+      - ufz
 
 sfragkoul:
     name: Stella Fragkouli
